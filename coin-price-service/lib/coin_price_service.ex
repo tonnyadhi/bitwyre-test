@@ -1,0 +1,2 @@
+defmodule CoinPriceService do
+end
