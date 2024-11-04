@@ -41,4 +41,6 @@ Design rationale and system components are as follow :
   
 ### Design Whiteboard
 
-Available on [Excalidraw](https://excalidraw.com/#room=bbc919e7f802e3f4f35a,PedEC4D15VtNgRvqlhvpEg)
+Available also on [Excalidraw](https://excalidraw.com/#room=bbc919e7f802e3f4f35a,PedEC4D15VtNgRvqlhvpEg)
+
+![System Architecture](Chat_System.png "System Architecture")
