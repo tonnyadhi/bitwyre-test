@@ -1,2 +1,2 @@
 # bitwyre-test
-Bitwyre Interview - Chat System Case
+Bitwyre - Chat System Case
